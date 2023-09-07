@@ -1,0 +1,19 @@
+table{
+    background-color: aquamarine;
+    border-spacing: 10;
+    width: 100%;
+    
+}
+
+th , td{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    border-radius: 50%;
+}
+
